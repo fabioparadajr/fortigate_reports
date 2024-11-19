@@ -6,4 +6,4 @@ Simple program to help me do some checkups on my Fortigate's.
 4 - Take the output and write in an file call "saida.txt"
 
 ** Remember you need to install "libssh-dev" for Debian/Ubuntu and "libssh-devel" for Redhat/Fedora
-** When compile use -lssh. This informe to the compiler to use the libssh library.
+** When compile use -lssh. This inform to the compiler to use the libssh library.
